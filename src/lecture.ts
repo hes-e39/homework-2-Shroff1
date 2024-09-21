@@ -14,4 +14,5 @@ type Animal = {
   name: string;
 };
 
+console.log("Aniket");
 //////// You can copy and past some of the examples in here
